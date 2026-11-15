@@ -1,5 +1,5 @@
 {
-  "appVersion": "1.0.1",
+  "appVersion": "1.0.2",
   "apkUrl": "https://github.com/namusbekcisi/tvbox-updates/releases/latest/download/LiveTVOn.apk",
   "channelsVersion": 2,
   "channelsUrl": "https://raw.githubusercontent.com/namusbekcisi/tvbox-updates/main/channels.json"
